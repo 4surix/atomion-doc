@@ -1,0 +1,31 @@
+&doc_id class
+"""
+
+Objeto representación de un atomo.
+
+"""
+
+&doc_id init
+"""
+
+Args:
+    valeur: Si @a IonMonoAtomique, convierte el ion en atomo; si @a int, equivale el numero de proton; si @a str, equivale el simbolo.
+    neutron: Define el numero de proton por l'isotopo.
+
+"""
+
+&doc_id notation
+"""
+
+Devuelve al notacion del atomo.
+
+"""
+
+&doc_id notation_symbole
+"""
+
+Args:
+    A: Define si hay que muestra el numero de nucleon.
+    Z: Defini si hay que muestra el numero atomico.
+
+"""
