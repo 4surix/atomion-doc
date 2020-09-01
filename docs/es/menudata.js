@@ -23,12 +23,12 @@
  @licend  The above is the entire license notice for the JavaScript code in this file
 */
 var menudata={children:[
-{text:"Page principale",url:"index.html"},
-{text:"Pages associées",url:"pages.html"},
-{text:"Classes",url:"annotated.html",children:[
-{text:"Liste des classes",url:"annotated.html"},
-{text:"Index des classes",url:"classes.html"},
-{text:"Hiérarchie des classes",url:"hierarchy.html"},
-{text:"Membres de classe",url:"functions.html",children:[
-{text:"Tout",url:"functions.html"},
-{text:"Fonctions",url:"functions_func.html"}]}]}]}
+{text:"Página principal",url:"index.html"},
+{text:"Páginas relacionadas",url:"pages.html"},
+{text:"Clases",url:"annotated.html",children:[
+{text:"Lista de clases",url:"annotated.html"},
+{text:"Índice de clases",url:"classes.html"},
+{text:"Jerarquía de la clase",url:"hierarchy.html"},
+{text:"Miembros de las clases",url:"functions.html",children:[
+{text:"Todo",url:"functions.html"},
+{text:"Funciones",url:"functions_func.html"}]}]}]}

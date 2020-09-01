@@ -9,7 +9,7 @@ Objeto representación de un atomo.
 """
 
 Args:
-    valeur: Si @a IonMonoAtomique, convierte el ion en atomo; si @a int, equivale el numero de proton; si @a str, equivale el simbolo.
+    valeur: Si IonMonoAtomique, convierte el ion en atomo; si int, equivale el numero de proton; si str, equivale el simbolo.
     neutron: Define el numero de proton por l'isotopo.
 
 """

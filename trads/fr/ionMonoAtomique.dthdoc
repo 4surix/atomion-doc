@@ -1,0 +1,34 @@
+&doc_id class
+"""
+
+Objet reprèsentant un ion monoatomique.
+
+"""
+
+&doc_id init
+"""
+
+Args:
+    valeur: Si Atome, convertit l'ion en atome; si int, équivaut au nombre de proton; si str, équivaut au symbole.
+    neutron: Définie le nombre de proton pour l'isotope.
+
+Exceptions:
+    ValeurIncorrecte: Si IonMonoatomique, illogique de convertir un Ion en Ion; si int, aucun élément n'a ce nombre de proton; si str, aucun élément n'a ce symbole.
+
+"""
+
+&doc_id notation
+"""
+
+Renvoie la notation de l'ion.
+
+"""
+
+&doc_id notation_symbole
+"""
+
+Args:
+    A: Définie si il faut afficher le nombre de nucléon.
+    Z: Définie si il faut afficher le numéro atomatique.
+
+"""

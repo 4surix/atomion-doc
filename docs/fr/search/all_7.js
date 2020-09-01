@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['valeurincorrecte_14',['ValeurIncorrecte',['../classatomion_1_1exception_1_1_valeur_incorrecte.html',1,'atomion::exception']]]
+  ['hashable_21',['Hashable',['../classatomion_1_1utile_1_1typing_1_1_hashable.html',1,'atomion::utile::typing']]]
 ];

@@ -1,0 +1,20 @@
+&doc_id electron
+"""
+
+Objecto que representa un electron.
+
+"""
+
+&doc_id proton
+"""
+
+Objecto que representa un proton.
+
+"""
+
+&doc_id neutron
+"""
+
+Objecto que representa un neutron.
+
+"""

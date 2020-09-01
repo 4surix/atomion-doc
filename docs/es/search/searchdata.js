@@ -1,7 +1,7 @@
 var indexSectionsWithContent =
 {
-  0: "_aeimnpv",
-  1: "aeimnpv",
+  0: "_abcdeghikmnprstv",
+  1: "_abcdeghikmnprstv",
   2: "_n",
   3: "a"
 };
@@ -16,9 +16,9 @@ var indexSectionNames =
 
 var indexSectionLabels =
 {
-  0: "Tout",
-  1: "Classes",
-  2: "Fonctions",
-  3: "Pages"
+  0: "Todo",
+  1: "Clases",
+  2: "Funciones",
+  3: "Páginas"
 };
 

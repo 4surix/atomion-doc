@@ -1,0 +1,24 @@
+&doc_id class
+"""
+
+Objet représentant un ion poluatomique.
+
+"""
+
+&doc_id init
+"""
+
+Args:
+	valeur: Si str, correpond au symbole de l'ion polyatomique (il n'est pas necessaire d'indiquer la charge); Si Molecule ou List[IonMonoAtomique], cnvertie en IonPolyAtomique.
+	verif_stable: Définie si il faut vérifier que l'ion soit stable.
+
+"""
+
+&doc_id notation_symbole
+"""
+
+Args:
+	A: Si faux, ne montre pas le nombre de nucleon.
+	Z: Si faux, ne montre pas le numéro atomique.
+
+"""

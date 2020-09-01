@@ -9,13 +9,11 @@ Objet reprèsentant un atome.
 """
 
 Args:
-
-    valeur: Si @a IonMonoAtomique, convertit l'ion en atome; si @a int, équivaut au nombre de proton; si @a str, équivaut au symbole.
+    valeur: Si IonMonoAtomique, convertit l'ion en atome; si int, équivaut au nombre de proton; si str, équivaut au symbole.
     neutron: Définie le nombre de proton pour l'isotope.
 
 Exceptions:
-
-    ValeurIncorrecte: Si @a Atome, illogique de convertir un Atome en Atome; si @a int, aucun élément n'a ce nombre de proton; si @a str, aucun élément n'a ce symbole.
+    ValeurIncorrecte: Si Atome, illogique de convertir un Atome en Atome; si int, aucun élément n'a ce nombre de proton; si str, aucun élément n'a ce symbole.
 
 """
 

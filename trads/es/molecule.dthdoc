@@ -1,0 +1,24 @@
+&doc_id class
+"""
+
+Objecto que representa una molécula.
+
+"""
+
+&doc_id init
+"""
+
+Args:
+	valeur: Si str, corresponde al simbolo del molécula; si IonPolyAtomique o List[Atome], converte en el Molecule.
+	verif_stable: Define si hay que comprobar que el molécula es estable.
+
+"""
+
+&doc_id notation_symbole
+"""
+
+Args:
+	A: Si falso, no muestra el numero de nucelon.
+	Z: Si falso, no muestra el numero atomico.
+
+"""

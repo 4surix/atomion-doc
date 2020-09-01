@@ -1,0 +1,24 @@
+&doc_id class
+"""
+
+Objecto que representa un ion polyatomico.
+
+"""
+
+&doc_id init
+"""
+
+Args:
+	valeur: Si str, corresponde al simbolo del ion polyatomique (no es necesario indicar el cargo); si Molecule o List[IonMonoAtomique], converte en el ion polyatomique.
+	verif_stable: Define si hay que comprobar que el ion es estable.
+
+"""
+
+&doc_id notation_symbole
+"""
+
+Args:
+	A: Si falso, no muestra el numero de nucleon.
+	Z: Si falso, no muestra el numero atomico.
+
+"""

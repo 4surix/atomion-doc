@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['electron_3',['Electron',['../classatomion_1_1objets_1_1electron_1_1_electron.html',1,'atomion::objets::electron']]]
+  ['bytestring_10',['ByteString',['../classatomion_1_1utile_1_1typing_1_1_byte_string.html',1,'atomion::utile::typing']]]
 ];
